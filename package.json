@@ -73,7 +73,8 @@
     "size-limit": "^7.0.8",
     "tsdx": "^0.14.1",
     "tslib": "^2.4.0",
-    "typescript": "^4.7.4"
+    "typescript": "^4.7.4",
+    "@types/react-test-renderer": "^18.0.0"
   },
   "keywords": [
     "product",
@@ -81,9 +82,6 @@
     "Jose",
     "Gutierrez"
   ],
-  "dependencies": {
-    "@types/react-test-renderer": "^18.0.0"
-  },
   "jest": {
     "moduleNameMapper": {
       "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "identity-obj-proxy",
