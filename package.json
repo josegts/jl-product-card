@@ -39,7 +39,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "jl-product-card",
+  "name": "gts-product-card",
   "author": "Jose Gutierrez",
   "module": "dist/jl-product-card.esm.js",
   "size-limit": [
