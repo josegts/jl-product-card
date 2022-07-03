@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImage should be render image when send from product 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="product"
+    className="productImg"
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`ProductImage shound be render component 1`] = `
+<img
+  alt="product"
+  className="productImg"
+  src="no-image"
+/>
+`;
