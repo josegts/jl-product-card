@@ -17,7 +17,7 @@ exports[`ProductButtons should be render component 1`] = `
     className="buttonAdd false"
     onClick={[Function]}
   >
-    +
+    ++
   </button>
 </div>
 `;

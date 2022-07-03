@@ -25,6 +25,7 @@ const App = () => {
             <ProductImage />
             <ProductTitle title="Cafee" />
             <ProductButtons className="custom-buttons" />
+            <span>Holii</span>
             {/* <button onClick={reset}>reset</button>
             <button onClick={() => increaseBy(-2)}>-2</button>
             {!isMaxCountReached && (

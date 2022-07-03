@@ -23,7 +23,7 @@ export const ProductButtons = ({ className }: { className?: string }) => {
         onClick={() => increaseBy(+1)}
         className={`${styles.buttonAdd} ${isMaxReached() && styles.disabled}`}
       >
-        +
+        ++
       </button>
     </div>
   );
